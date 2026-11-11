@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-10T00:10:37-03:00",
+  "actualizado": "2026-11-10T23:47:04-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-11",
+      "titulo": "Pronóstico en Concepción para el Miércoles 11",
+      "resumen": {
+        "cielo": "sol",
+        "estado": "Despejado y soleado todo el día",
+        "min": 14,
+        "max": 23,
+        "viento": "Ráfagas de 30 a 33 km/h",
+        "lluvia": "Sin lluvia"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "sol",
+          "temp": "14 °C",
+          "detalle": "Templada y despejada, con 14 °C a las 7:00 y un rápido ascenso de temperatura."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "sol",
+          "temp": "23 °C",
+          "detalle": "Máxima de 23 °C entre las 14:00 y las 16:00. Viento moderado con ráfagas de 30 a 33 km/h."
+        },
+        {
+          "momento": "Noche",
+          "icono": "luna",
+          "temp": "15–16 °C",
+          "detalle": "Cielo despejado y temperatura agradable, sin probabilidad de lluvia."
+        }
+      ],
+      "texto": "Jornada completamente despejada y soleada de principio a fin. La mañana comenzará templada con 14 °C a las 7:00, subiendo rápidamente hasta alcanzar los 23 °C entre las 14:00 y las 16:00. Durante la tarde se mantendrán vientos moderados con ráfagas sostenidas de 30 a 33 km/h. Hacia la noche, el cielo continuará despejado y la temperatura se mantendrá agradable alrededor de los 15 °C a 16 °C sin probabilidad de lluvia.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-10",
       "titulo": "Pronóstico en Concepción para el Martes 10",
