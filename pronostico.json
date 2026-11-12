@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-10T23:47:04-03:00",
+  "actualizado": "2026-11-12T01:07:48-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Pronóstico en Concepción para el Jueves 12",
+      "resumen": {
+        "cielo": "parcial",
+        "estado": "Nubosidad matinal, luego soleado y ventoso",
+        "min": 12,
+        "max": 22,
+        "viento": "Ráfagas de 38 a 44 km/h",
+        "lluvia": "Sin lluvia"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "nube",
+          "temp": "12–13 °C",
+          "detalle": "Nubosidad baja en la madrugada y primeras horas; se despeja por completo desde las 11:00."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "sol",
+          "temp": "22 °C",
+          "detalle": "Soleado, máxima entre las 13:00 y las 15:00. Viento fuerte con ráfagas de 38 a 44 km/h, sobre todo entre las 15:00 y las 21:00."
+        },
+        {
+          "momento": "Noche",
+          "icono": "luna",
+          "temp": "15–16 °C",
+          "detalle": "Cielo despejado, sin probabilidad de lluvia."
+        }
+      ],
+      "texto": "La jornada comenzará con nubosidad baja durante la madrugada y primeras horas de la mañana, registrando temperaturas mínimas de 12 °C a 13 °C. A partir de las 11:00 el cielo se despejará por completo, dando paso a una tarde soleada con máximas de 22 °C entre las 13:00 y las 15:00. El viento será protagonista desde la tarde hasta el anochecer, con ráfagas sostenidas que alcanzarán entre 38 y 44 km/h (especialmente entre las 15:00 y las 21:00). Hacia la noche el cielo se mantendrá despejado con temperaturas en torno a los 15 °C - 16 °C y sin probabilidad de lluvia.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-11",
       "titulo": "Pronóstico en Concepción para el Miércoles 11",
