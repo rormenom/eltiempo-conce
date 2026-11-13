@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-12T01:07:48-03:00",
+  "actualizado": "2026-11-13T17:16:04-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-13",
+      "titulo": "Pronóstico en Concepción para el Viernes 13",
+      "resumen": {
+        "cielo": "sol",
+        "estado": "Radiante y soleado, temperaturas en alza",
+        "min": 13,
+        "max": 27,
+        "viento": "Ráfagas de 29 a 31 km/h",
+        "lluvia": "Sin lluvia"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "sol",
+          "temp": "13–14 °C",
+          "detalle": "Templada y soleada, con un rápido ascenso de temperatura."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "sol",
+          "temp": "27 °C",
+          "detalle": "Máxima veraniega entre las 15:00 y las 16:00. Viento moderado con ráfagas de 29 a 31 km/h hasta el anochecer."
+        },
+        {
+          "momento": "Noche",
+          "icono": "luna",
+          "temp": "21–22 °C",
+          "detalle": "Totalmente despejado y muy agradable, sin probabilidad de lluvia."
+        }
+      ],
+      "texto": "Día radiante y soleado de principio a fin, con temperaturas en marcado ascenso. La mañana arrancó templada con mínimas de 13 °C a 14 °C, subiendo rápidamente hasta alcanzar una máxima veraniega de 27 °C entre las 15:00 y las 16:00. Durante la tarde y el anochecer se registrarán vientos moderados con ráfagas sostenidas de 29 a 31 km/h. Hacia la noche, el cielo continuará totalmente despejado con temperaturas muy agradables en torno a los 21 °C - 22 °C y sin probabilidad de lluvia.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-12",
       "titulo": "Pronóstico en Concepción para el Jueves 12",
