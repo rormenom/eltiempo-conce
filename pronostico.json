@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-14T00:27:04-03:00",
+  "actualizado": "2026-11-15T01:23:16-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-15",
+      "titulo": "Pronóstico en Concepción para el Domingo 15",
+      "resumen": {
+        "cielo": "lluvia",
+        "estado": "Nublado e inestable, con lluvia y viento fuerte",
+        "min": 14,
+        "max": 19,
+        "viento": "Viento norte/noroeste, rachas de 60 a 65 km/h",
+        "lluvia": "Lluvia, cerca de 5,9 mm"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "lluvia",
+          "temp": "16 °C",
+          "detalle": "Chubascos débiles con breves claros de sol durante la mañana y el mediodía."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "lluvia",
+          "temp": "19 °C",
+          "detalle": "Máxima hacia las 15:00. Fuertes rachas de viento norte/noroeste, con picos de 60 a 65 km/h entre las 14:00 y las 19:00. Lluvia más continua desde las 18:00."
+        },
+        {
+          "momento": "Noche",
+          "icono": "lluvia",
+          "temp": "14 °C",
+          "detalle": "Lluvia continua durante toda la noche; acumulado cercano a 5,9 mm en el día."
+        }
+      ],
+      "texto": "Jornada mayormente nublada e inestable, marcada por precipitaciones intermitentes y vientos intensos. Durante la mañana y el mediodía se registrarán chubascos débiles acompañados de breves claros de sol, con temperaturas que irán desde los 16 °C matinales hasta una máxima de 19 °C hacia las 15:00. El fenómeno más destacado serán las fuertes rachas de viento norte/noroeste, que se intensificarán desde el mediodía alcanzando picos de 60 a 65 km/h entre las 14:00 y las 19:00. A partir de las 18:00 y durante toda la noche la lluvia se volverá más continua —acumulando cerca de 5.9 mm en el día— mientras los termómetros descienden a los 14 °C.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-14",
       "titulo": "Pronóstico en Concepción para el Sábado 14",
