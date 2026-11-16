@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-15T01:23:16-03:00",
+  "actualizado": "2026-11-15T23:28:13-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-16",
+      "titulo": "Pronóstico en Concepción para el Lunes 16",
+      "resumen": {
+        "cielo": "lluvia",
+        "estado": "Cubierto, con lluvia intermitente todo el día",
+        "min": 14,
+        "max": 17,
+        "viento": "Viento norte/noroeste, ráfagas de 40 a 48 km/h",
+        "lluvia": "Lluvia, cerca de 6 mm"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "lluvia",
+          "temp": "14–15 °C",
+          "detalle": "Cielo cubierto y lluvia intermitente. Viento norte/noroeste con ráfagas de 45 a 48 km/h en las primeras horas."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "lluvia",
+          "temp": "17 °C",
+          "detalle": "Máxima entre el mediodía y media tarde. Lluvia intermitente y viento sostenido con ráfagas de 40 a 43 km/h hasta el atardecer."
+        },
+        {
+          "momento": "Noche",
+          "icono": "lluvia",
+          "temp": "14 °C",
+          "detalle": "El viento amaina gradualmente a 26–34 km/h; acumulado cercano a 6 mm en el día."
+        }
+      ],
+      "texto": "Jornada completamente cubierta y marcada por lluvias intermitentes pero constantes durante todo el día, acumulando cerca de 6 mm en total. Las temperaturas se mantendrán muy parejas y frescas, partiendo en 14 °C - 15 °C en la madrugada y alcanzando una máxima de apenas 17 °C entre el mediodía y media tarde. El viento norte/noroeste soplará con fuerza sostenida desde la madrugada hasta el atardecer, registrando ráfagas de 45 a 48 km/h en las primeras horas y manteniéndose entre 40 y 43 km/h durante gran parte del día. Hacia la noche el viento comenzará a amainar gradualmente (bajando a 26 - 34 km/h) y los termómetros cerrarán en 14 °C.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-15",
       "titulo": "Pronóstico en Concepción para el Domingo 15",
