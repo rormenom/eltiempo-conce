@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-15T23:28:13-03:00",
+  "actualizado": "2026-11-17T00:29:53-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-17",
+      "titulo": "Pronóstico en Concepción para el Martes 17",
+      "resumen": {
+        "cielo": "lluvia",
+        "estado": "Variable e inestable, con lluvia intermitente",
+        "min": 14,
+        "max": 18,
+        "viento": "Viento norte/noroeste, ráfagas de 46 a 53 km/h",
+        "lluvia": "Lluvia, cerca de 7,1 mm"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "lluvia",
+          "temp": "14–15 °C",
+          "detalle": "Precipitaciones intermitentes, con temperaturas frescas y parejas."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "lluvia",
+          "temp": "18 °C",
+          "detalle": "Máxima hacia las 14:00, con algunos claros de sol y lluvia intermitente hasta media tarde. Viento norte/noroeste con ráfagas de 46 a 53 km/h entre las 12:00 y las 19:00."
+        },
+        {
+          "momento": "Noche",
+          "icono": "parcial",
+          "temp": "14 °C",
+          "detalle": "Cesan las lluvias, el cielo queda parcialmente despejado y el viento amaina gradualmente."
+        }
+      ],
+      "texto": "Jornada variable e inestable, marcada por precipitaciones intermitentes durante la mañana y media tarde, acumulando cerca de 7.1 mm en total. Las temperaturas se mantendrán frescas y parejas, comenzando en 14 °C - 15 °C y alcanzando una máxima de apenas 18 °C hacia las 14:00, con algunos claros de sol entre las nubes. El viento norte/noroeste tomará fuerza desde el mediodía, registrando ráfagas sostenidas de 46 a 53 km/h entre las 12:00 y las 19:00. Hacia la noche cesarán las lluvias, el cielo quedará parcialmente despejado, el viento amainará gradualmente y los termómetros cerrarán en 14 °C.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-16",
       "titulo": "Pronóstico en Concepción para el Lunes 16",
