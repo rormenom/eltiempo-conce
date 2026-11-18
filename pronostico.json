@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-17T00:29:53-03:00",
+  "actualizado": "2026-11-17T21:57:21-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-18",
+      "titulo": "Pronóstico en Concepción para el Miércoles 18",
+      "resumen": {
+        "cielo": "lluvia",
+        "estado": "Fresco e inestable, con chubascos y claros",
+        "min": 13,
+        "max": 18,
+        "viento": "Viento norte/noroeste, ráfagas de 40 a 45 km/h",
+        "lluvia": "Lluvia, cerca de 9,1 mm"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "lluvia",
+          "temp": "13 °C",
+          "detalle": "Lluvia en la madrugada y primeras horas, más intensa hacia las 6:00 (3,4 mm). Desde las 10:00, chubascos intermitentes con claros de sol."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "lluvia",
+          "temp": "18 °C",
+          "detalle": "Chubascos intermitentes con claros hasta las 18:00. Viento norte/noroeste con ráfagas de 40 a 45 km/h entre las 12:00 y las 19:00."
+        },
+        {
+          "momento": "Noche",
+          "icono": "nube",
+          "temp": "14 °C",
+          "detalle": "Cesan las precipitaciones y amaina el viento; acumulado cercano a 9,1 mm en el día."
+        }
+      ],
+      "texto": "La jornada comenzará fresca e inestable con lluvias durante la madrugada y primeras horas de la mañana (con un pulso más marcado de 3.4 mm hacia las 6:00) y temperaturas mínimas de 13 °C. Desde las 10:00 hasta las 18:00 se mantendrán chubascos intermitentes intercalados con claros de sol, acumulando cerca de 9.1 mm en total y alcanzando una máxima de 18 °C por la tarde. El viento norte/noroeste se intensificará a partir del mediodía, registrando ráfagas sostenidas de 40 a 45 km/h entre las 12:00 y las 19:00. Hacia la noche cesarán las precipitaciones, amainará el viento y los termómetros cerrarán en 14 °C.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-17",
       "titulo": "Pronóstico en Concepción para el Martes 17",
