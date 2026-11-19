@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-17T21:57:21-03:00",
+  "actualizado": "2026-11-19T00:08:35-03:00",
   "pronosticos": [
+    {
+      "fecha": "2026-11-19",
+      "titulo": "Pronóstico en Concepción para el Jueves 19",
+      "resumen": {
+        "cielo": "lluvia",
+        "estado": "Nublado con chubascos y momentos de sol",
+        "min": 12,
+        "max": 17,
+        "viento": "Ráfagas de 36 a 42 km/h",
+        "lluvia": "Lluvia, cerca de 4,5 mm"
+      },
+      "tramos": [
+        {
+          "momento": "Mañana",
+          "icono": "nube",
+          "temp": "12 °C",
+          "detalle": "Fresco y nublado, con mínima entre las 4:00 y las 7:00, cuando comienzan los primeros chubascos débiles."
+        },
+        {
+          "momento": "Tarde",
+          "icono": "parcial",
+          "temp": "17 °C",
+          "detalle": "Se alternan momentos de sol con precipitaciones aisladas. Ráfagas de 36 a 42 km/h desde el mediodía hasta el anochecer."
+        },
+        {
+          "momento": "Noche",
+          "icono": "lluvia",
+          "temp": "13–14 °C",
+          "detalle": "Lluvias algo más seguidas y viento que amaina gradualmente; acumulado cercano a 4,5 mm en el día."
+        }
+      ],
+      "texto": "La jornada comenzará fresca y nublada con temperaturas mínimas de 12 °C entre las 4:00 y las 7:00, momento en que se iniciarán los primeros chubascos débiles. Durante el mediodía y la tarde se alternarán momentos de sol con precipitaciones aisladas (acumulando cerca de 4.5 mm en el día) y una temperatura máxima estable de 17 °C. El viento cobrará intensidad desde el mediodía hasta el anochecer, registrando ráfagas sostenidas de 36 a 42 km/h. Hacia la noche las lluvias se volverán algo más seguidas y los termómetros descenderán a los 13 °C - 14 °C, mientras el viento irá amainando gradualmente.",
+      "hashtags": []
+    },
     {
       "fecha": "2026-11-18",
       "titulo": "Pronóstico en Concepción para el Miércoles 18",
